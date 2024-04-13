@@ -1,0 +1,52 @@
+{
+    "room": {
+        "_id": "6619a4f19b6e35e7ed92ea3f",
+        "fname": "Socials",
+        "_updatedAt": "2024-04-12T21:18:02.180Z",
+        "customFields": {},
+        "topic": "",
+        "broadcast": false,
+        "encrypted": false,
+        "name": "Socials",
+        "t": "p",
+        "msgs": 1,
+        "usersCount": 3,
+        "u": {
+            "_id": "gjJjJZSaK7ybBtfao",
+            "username": "rinokings",
+            "name": "Kingsley C"
+        },
+        "ts": "2024-04-12T21:17:37.650Z",
+        "ro": false,
+        "default": false,
+        "sysMes": true,
+        "lastMessage": {
+            "_id": "AnMkEPZtzkvDCMyri",
+            "rid": "6619a4f19b6e35e7ed92ea3f",
+            "msg": "Hello Welcome to the socials room guys",
+            "ts": "2024-04-12T21:18:02.105Z",
+            "u": {
+                "_id": "gjJjJZSaK7ybBtfao",
+                "username": "rinokings",
+                "name": "Kingsley C"
+            },
+            "_updatedAt": "2024-04-12T21:18:02.169Z",
+            "urls": [],
+            "mentions": [],
+            "channels": [],
+            "md": [
+                {
+                    "type": "PARAGRAPH",
+                    "value": [
+                        {
+                            "type": "PLAIN_TEXT",
+                            "value": "Hello Welcome to the socials room guys"
+                        }
+                    ]
+                }
+            ]
+        },
+        "lm": "2024-04-12T21:18:02.105Z"
+    },
+    "success": true
+}

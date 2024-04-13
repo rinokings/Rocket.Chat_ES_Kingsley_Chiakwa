@@ -1,0 +1,26 @@
+{
+    "user": {
+        "_id": "Ep9PA8dwhs4rCKqhq",
+        "createdAt": "2024-04-13T19:35:29.172Z",
+        "username": "janed",
+        "emails": [
+            {
+                "address": "jane.doe@contoso.com",
+                "verified": false
+            }
+        ],
+        "type": "user",
+        "roles": [
+            "user"
+        ],
+        "status": "offline",
+        "active": true,
+        "_updatedAt": "2024-04-13T19:35:29.268Z",
+        "__rooms": [
+            "GENERAL"
+        ],
+        "name": "Jane Doe",
+        "settings": {}
+    },
+    "success": true
+}
